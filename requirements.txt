@@ -1,0 +1,11 @@
+langchain
+openai
+streamlit
+chromadb
+tiktoken
+dashscope
+langchain_community
+sentence-transformers
+unstructured
+BCEmbedding
+pymupdf
