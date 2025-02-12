@@ -23,3 +23,6 @@ DASHSCOPE_API_KEY=""
 使用在线OpenAI 的Embedding模型消耗的Token过高，决定使用HuggingFaceEmbeddings加载离线的Embedding模型。模型使用的是通义千问。向量数据库使用Chroma。
 
 使用说明：上传文件，并对文件中的内容进行提问，系统会给出回答。
+
+
+测试GIT分支问题  第二次修改
